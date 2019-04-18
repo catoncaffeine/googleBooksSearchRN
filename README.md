@@ -6,6 +6,16 @@
 4. Xcode if iOS
 5. Android Studio if Android
 
+## Initial Set Up
+Run command
+```
+yarn
+```
+or
+```
+npm install
+```
+
 ## Run in iOS Simulator
 Run command:
 ```
@@ -16,7 +26,7 @@ react-native run-ios
 
 1. open Android Studio
 2. Set up a device in AVD manager
-3. Run command:
+3. Run commands:
 ```
 react-native run-android
 ```
