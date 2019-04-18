@@ -24,9 +24,9 @@ react-native run-ios
 
 ## Run in Android Emulator
 
-1. open Android Studio
-2. Set up a device in AVD manager
-3. Run commands:
+1. Open Android Studio
+2. Set up a device in AVD manager and start the device
+3. Run command:
 ```
 react-native run-android
 ```
